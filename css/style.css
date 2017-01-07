@@ -73,3 +73,21 @@ footer.page-footer {
   filter: blur(1px);
   /*transform: scale(1.1);*/
 }
+
+
+#name {
+  margin-top: 5px;
+  margin-bottom: 12px;
+}
+
+#job-position {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+#connect-btn{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+
