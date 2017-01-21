@@ -116,15 +116,15 @@ Responsive Stuff
 @media (max-width: 768px) {
   .timeline .event::before {
     left: 0.5px;
-    top: 20px;
+    top: 38px;
     min-width: 0;
     font-size: 13px;
   }
-  .timeline .event:nth-child(1)::before,
+  /*.timeline .event:nth-child(1)::before,
   .timeline .event:nth-child(3)::before,
   .timeline .event:nth-child(5)::before {
     top: 38px;
-  }
+  }*/
   .timeline h3 {
     font-size: 16px;
   }
