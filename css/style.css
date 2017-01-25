@@ -95,5 +95,8 @@ width:100%; height: 100%; transform: scale(2.0, 1.5) translate(7px,23px);/*scale
   margin-top: 12px;
   margin-bottom: 12px;
 }
+div .card > div.card-image{
+ /* height: 334px;*/ 
+}
 
 
